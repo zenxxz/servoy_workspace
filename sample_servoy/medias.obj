@@ -1,0 +1,16 @@
+[
+{
+encapsulation:0,
+mimeType:"text/css",
+name:"custom_servoy_theme_properties.less",
+typeid:37,
+uuid:"F7822678-7341-460A-BCD0-0D7E2488FB6E"
+},
+{
+encapsulation:0,
+mimeType:"text/css",
+name:"sample_servoy.less",
+typeid:37,
+uuid:"B24A6876-5CEA-421D-92C1-4B24B8A52351"
+}
+]

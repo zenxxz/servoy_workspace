@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/smartygadgets/brand",
+items:[
+{foreignColumnName:"brandid",primaryDataProviderID:"brandid",typeid:23,uuid:"3A0FBE9F-D443-449E-BA81-BE5B0ADD5906"}
+],
+joinType:1,
+name:"item_to_brand",
+primaryDataSource:"db:/smartygadgets/item",
+typeid:22,
+uuid:"F9F68B71-28A7-4CEB-BCB3-B38628DFC1D4"
