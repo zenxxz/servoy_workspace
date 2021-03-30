@@ -19,5 +19,9 @@ var markers = [];
 		}
 	}
 	
+	if(getSelectedRecord().itemreceived <= 0){
+		markers.push({dataProviderID: 'itemreceived', message: 'Item received field must be more than zero'});
+	}
+	
 	return markers;
 }

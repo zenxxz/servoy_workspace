@@ -9,14 +9,14 @@ typeid:19,
 uuid:"03E601FD-F7A4-4AE2-B8F1-EA7E57AD3421"
 },
 {
-cssPosition:"501,-1,-1,33,409,89",
+cssPosition:"246,-1,-1,506,409,89",
 json:{
 cssPosition:{
 bottom:"-1",
 height:"89",
-left:"33",
+left:"506",
 right:"-1",
-top:"501",
+top:"246",
 width:"409"
 },
 dataProviderID:"callout",
@@ -36,6 +36,6 @@ name:"validationBase",
 navigatorID:"-1",
 onElementDataChangeMethodID:"23647245-1957-4D6C-BF9D-9979BCFE9363",
 showInMenu:true,
-size:"640,597",
+size:"951,597",
 typeid:3,
 uuid:"389AE233-25AC-49C7-ABDF-9F723F3D27A7"

@@ -1,6 +1,6 @@
-fileVersion:48,
+fileVersion:53,
 mustAuthenticate:false,
-name:"exampleValidation",
+name:"example_validation",
 solutionType:1,
 typeid:43,
 uuid:"1587876C-ADF6-410C-B5F2-3A7D8107BDF9"
